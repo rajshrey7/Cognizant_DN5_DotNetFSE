@@ -13,10 +13,16 @@ public class StockMarket implements Stock {
         list.remove(o);
     }
 
-    public void setPrice(double price){
-        this.price = price;
-        notifyObservers();
-    }
+   public void setPrice(double price) {
+
+    this.price = price;
+
+    System.out.println(
+            "Stock Price Updated : " +
+            price);
+
+    notifyObservers();
+}
 
     public void notifyObservers(){
         for(Observer o:list)

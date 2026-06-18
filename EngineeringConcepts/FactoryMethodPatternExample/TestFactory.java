@@ -2,16 +2,25 @@ public class TestFactory {
 
     public static void main(String[] args) {
 
-        DocumentFactory wordFactory = new WordDocumentFactory();
-        Document wordDoc = wordFactory.createDocument();
-        wordDoc.open();
+        System.out.println("========== FACTORY METHOD PATTERN ==========\n");
 
-        DocumentFactory pdfFactory = new PdfDocumentFactory();
-        Document pdfDoc = pdfFactory.createDocument();
-        pdfDoc.open();
+        DocumentFactory wordFactory =
+                new WordDocumentFactory();
 
-        DocumentFactory excelFactory = new ExcelDocumentFactory();
-        Document excelDoc = excelFactory.createDocument();
-        excelDoc.open();
+        DocumentFactory pdfFactory =
+                new PdfDocumentFactory();
+
+        DocumentFactory excelFactory =
+                new ExcelDocumentFactory();
+
+        System.out.println("Creating Documents...\n");
+
+        wordFactory.createDocument().open();
+        pdfFactory.createDocument().open();
+        excelFactory.createDocument().open();
+
+        System.out.println("\nAll documents created successfully.");
+
+        System.out.println("\n============================================");
     }
 }

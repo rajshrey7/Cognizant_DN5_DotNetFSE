@@ -1,11 +1,17 @@
-public class SMSNotifierDecorator extends NotifierDecorator {
+public class SMSNotifierDecorator
+        extends NotifierDecorator {
 
-    public SMSNotifierDecorator(Notifier notifier){
+    public SMSNotifierDecorator(
+            Notifier notifier) {
+
         super(notifier);
     }
 
-    public void send(String msg){
+    public void send(String msg) {
+
         notifier.send(msg);
-        System.out.println("SMS: " + msg);
+
+        System.out.println(
+                "SMS Notification   : " + msg);
     }
 }

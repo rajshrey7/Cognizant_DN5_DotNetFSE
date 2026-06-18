@@ -1,6 +1,9 @@
-public class PayPalPayment implements PaymentStrategy {
+public class PayPalPayment
+        implements PaymentStrategy {
 
-    public void pay(int amount){
-        System.out.println("PayPal: " + amount);
+    public void pay(int amount) {
+
+        System.out.println(
+                "Amount Paid : " + amount);
     }
 }

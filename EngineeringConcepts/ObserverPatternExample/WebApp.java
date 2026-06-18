@@ -1,6 +1,9 @@
 public class WebApp implements Observer {
 
-    public void update(double price){
-        System.out.println("Web App: " + price);
+    public void update(double price) {
+
+        System.out.println(
+                "Web App Notification    : " +
+                price);
     }
 }

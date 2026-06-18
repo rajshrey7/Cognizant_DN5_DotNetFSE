@@ -1,7 +1,8 @@
-public class WordDocument implements Document{
-    @Override
-    public void open(){
-        System.out.println("Opening Word Document");
+public class WordDocument implements Document {
+
+    public void open() {
+
+        System.out.println(
+                "Opening Word Document");
     }
-    
 }

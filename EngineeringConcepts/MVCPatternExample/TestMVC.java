@@ -2,20 +2,37 @@ public class TestMVC {
 
     public static void main(String[] args) {
 
-        Student student =
-                new Student("Shreyansh", 101, "A");
+        System.out.println("========== MVC PATTERN ==========\n");
 
-        StudentView view = new StudentView();
+        Student student =
+                new Student(
+                        "Shreyansh",
+                        101,
+                        "A");
+
+        StudentView view =
+                new StudentView();
 
         StudentController controller =
-                new StudentController(student, view);
+                new StudentController(
+                        student,
+                        view);
+
+        System.out.println("Student Details:");
 
         controller.updateView();
 
-        System.out.println("\nAfter Grade Update\n");
+        System.out.println(
+                "\nUpdating Grade...\n");
 
         controller.updateGrade("A+");
 
+        System.out.println(
+                "Updated Student Details:");
+
         controller.updateView();
+
+        System.out.println(
+                "\n=================================");
     }
 }

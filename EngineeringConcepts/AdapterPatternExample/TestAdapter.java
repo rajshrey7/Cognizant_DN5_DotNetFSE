@@ -1,6 +1,20 @@
 public class TestAdapter {
+
     public static void main(String[] args) {
-        PaymentProcessor p = new PayPalAdapter();
-        p.processPayment(1000);
+
+        System.out.println("========== ADAPTER PATTERN ==========\n");
+
+        PaymentProcessor processor =
+                new PayPalAdapter();
+
+        System.out.println("Processing Payment...\n");
+
+        processor.processPayment(1000);
+
+        System.out.println(
+                "\nPayment Completed Successfully.");
+
+        System.out.println(
+                "\n=====================================");
     }
 }
