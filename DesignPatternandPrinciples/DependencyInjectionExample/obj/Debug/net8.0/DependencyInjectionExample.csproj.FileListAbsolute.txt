@@ -1,0 +1,15 @@
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.exe
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.deps.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.runtimeconfig.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\bin\Debug\net8.0\DependencyInjectionExample.pdb
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.AssemblyInfoInputs.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.AssemblyInfo.cs
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.sourcelink.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\refint\DependencyInjectionExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.pdb
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.genruntimeconfig.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\DependencyInjectionExample\obj\Debug\net8.0\ref\DependencyInjectionExample.dll

@@ -1,0 +1,15 @@
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.exe
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.deps.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.runtimeconfig.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.pdb
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.AssemblyInfoInputs.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.AssemblyInfo.cs
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.sourcelink.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\refint\ObserverPatternExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.pdb
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.genruntimeconfig.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ObserverPatternExample\obj\Debug\net8.0\ref\ObserverPatternExample.dll

@@ -1,0 +1,15 @@
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.exe
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.deps.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.runtimeconfig.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.pdb
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.AssemblyInfoInputs.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.AssemblyInfo.cs
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.sourcelink.json
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\refint\ProxyPatternExample.dll
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.pdb
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.genruntimeconfig.cache
+D:\Cognizant_DN5_DotNetFSE\EngineeringConcepts\ProxyPatternExample\obj\Debug\net8.0\ref\ProxyPatternExample.dll
