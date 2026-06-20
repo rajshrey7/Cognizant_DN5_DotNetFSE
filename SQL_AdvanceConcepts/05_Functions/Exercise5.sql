@@ -1,0 +1,2 @@
+DROP FUNCTION IF EXISTS fn_CalculateBonus;
+GO

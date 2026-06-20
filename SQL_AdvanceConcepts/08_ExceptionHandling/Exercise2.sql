@@ -1,0 +1,14 @@
+BEGIN TRY
+
+    DECLARE @Number INT;
+    SET @Number = CAST('ABC' AS INT);
+
+END TRY
+
+BEGIN CATCH
+
+    SELECT
+        ERROR_MESSAGE() AS ErrorMessage;
+
+END CATCH;
+GO
