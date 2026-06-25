@@ -1,0 +1,6 @@
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterLib\bin\Debug\ConverterLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterLib\bin\Debug\ConverterLib.pdb
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterLib\obj\Debug\ConverterLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterLib\obj\Debug\ConverterLib.pdb

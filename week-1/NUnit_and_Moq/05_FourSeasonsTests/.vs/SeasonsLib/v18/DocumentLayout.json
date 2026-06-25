@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\05_FourSeasonsTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E395D11-37B3-4825-803E-7FC197B14BF3}|..\\FourSeasonsLib.Tests\\FourSeasonsLib.Tests.csproj|d:\\cognizant_dn5_dotnetfse\\nunit_and_moq\\05_fourseasonstests\\fourseasonslib.tests\\seasontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E395D11-37B3-4825-803E-7FC197B14BF3}|..\\FourSeasonsLib.Tests\\FourSeasonsLib.Tests.csproj|solutionrelative:fourseasonslib.tests\\seasontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeasonTests.cs",
+              "DocumentMoniker": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\05_FourSeasonsTests\\FourSeasonsLib.Tests\\SeasonTests.cs",
+              "RelativeDocumentMoniker": "FourSeasonsLib.Tests\\SeasonTests.cs",
+              "ToolTip": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\05_FourSeasonsTests\\FourSeasonsLib.Tests\\SeasonTests.cs",
+              "RelativeToolTip": "FourSeasonsLib.Tests\\SeasonTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T11:06:33.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

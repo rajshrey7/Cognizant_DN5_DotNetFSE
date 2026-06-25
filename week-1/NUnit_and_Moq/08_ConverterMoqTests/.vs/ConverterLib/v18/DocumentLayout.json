@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\08_ConverterMoqTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCC65BB-6276-4002-9D69-6EFCAADA1C59}|ConverterTests.cs\\ConverterTests.cs.csproj|d:\\cognizant_dn5_dotnetfse\\nunit_and_moq\\08_convertermoqtests\\convertertests.cs\\convertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCC65BB-6276-4002-9D69-6EFCAADA1C59}|ConverterTests.cs\\ConverterTests.cs.csproj|solutionrelative:convertertests.cs\\convertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib\\ConverterLib.csproj|d:\\cognizant_dn5_dotnetfse\\nunit_and_moq\\08_convertermoqtests\\converterlib\\idollartoeuroexchangeratefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib\\ConverterLib.csproj|solutionrelative:converterlib\\idollartoeuroexchangeratefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConverterTests.cs",
+              "DocumentMoniker": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\08_ConverterMoqTests\\ConverterTests.cs\\ConverterTests.cs",
+              "RelativeDocumentMoniker": "ConverterTests.cs\\ConverterTests.cs",
+              "ToolTip": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\08_ConverterMoqTests\\ConverterTests.cs\\ConverterTests.cs",
+              "RelativeToolTip": "ConverterTests.cs\\ConverterTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:06:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDollarToEuroExchangeRateFeed.cs",
+              "DocumentMoniker": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\08_ConverterMoqTests\\ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
+              "RelativeDocumentMoniker": "ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
+              "ToolTip": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\08_ConverterMoqTests\\ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
+              "RelativeToolTip": "ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:02:18.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
