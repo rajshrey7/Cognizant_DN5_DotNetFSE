@@ -1,0 +1,2 @@
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterTests.cs\obj\Debug\ConverterTests.cs.csproj.AssemblyReference.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\08_ConverterMoqTests\ConverterTests.cs\obj\Debug\ConverterTests.cs.csproj.CoreCompileInputs.cache

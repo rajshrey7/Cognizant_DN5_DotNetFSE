@@ -1,0 +1,6 @@
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\04_CollectionsTests\CollectionsLib\bin\Debug\CollectionsLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\04_CollectionsTests\CollectionsLib\bin\Debug\CollectionsLib.pdb
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\04_CollectionsTests\CollectionsLib\obj\Debug\CollectionsLib.csproj.AssemblyReference.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\04_CollectionsTests\CollectionsLib\obj\Debug\CollectionsLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\04_CollectionsTests\CollectionsLib\obj\Debug\CollectionsLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\04_CollectionsTests\CollectionsLib\obj\Debug\CollectionsLib.pdb

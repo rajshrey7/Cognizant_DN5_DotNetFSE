@@ -1,0 +1,6 @@
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\05_FourSeasonsTests\FourSeasonsLib\bin\Debug\SeasonsLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\05_FourSeasonsTests\FourSeasonsLib\bin\Debug\SeasonsLib.pdb
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\05_FourSeasonsTests\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.AssemblyReference.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\05_FourSeasonsTests\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\05_FourSeasonsTests\FourSeasonsLib\obj\Debug\SeasonsLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\05_FourSeasonsTests\FourSeasonsLib\obj\Debug\SeasonsLib.pdb

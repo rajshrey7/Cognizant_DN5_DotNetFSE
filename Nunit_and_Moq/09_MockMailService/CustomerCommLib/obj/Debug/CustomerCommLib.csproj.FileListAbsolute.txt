@@ -1,0 +1,15 @@
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\obj\Debug\Customer.99DA293A.Up2Date
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\09_MockMailService\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

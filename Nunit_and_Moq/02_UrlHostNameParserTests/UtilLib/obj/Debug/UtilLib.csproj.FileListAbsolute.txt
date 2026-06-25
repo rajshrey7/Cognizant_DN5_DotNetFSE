@@ -1,0 +1,6 @@
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\02_UrlHostNameParserTests\UtilLib\bin\Debug\UtilLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\02_UrlHostNameParserTests\UtilLib\bin\Debug\UtilLib.pdb
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\02_UrlHostNameParserTests\UtilLib\obj\Debug\UtilLib.csproj.AssemblyReference.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\02_UrlHostNameParserTests\UtilLib\obj\Debug\UtilLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\02_UrlHostNameParserTests\UtilLib\obj\Debug\UtilLib.dll
+D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\02_UrlHostNameParserTests\UtilLib\obj\Debug\UtilLib.pdb
