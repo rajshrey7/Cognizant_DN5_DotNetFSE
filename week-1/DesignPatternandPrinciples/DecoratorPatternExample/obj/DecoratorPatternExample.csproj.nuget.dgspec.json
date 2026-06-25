@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj": {}
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj": {
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj",
+        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj",
         "projectName": "DecoratorPatternExample",
-        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj",
+        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\DecoratorPatternExample\\DecoratorPatternExample.csproj",
         "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\DecoratorPatternExample\\obj\\",
+        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\DecoratorPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

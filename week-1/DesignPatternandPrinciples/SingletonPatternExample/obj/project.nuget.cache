@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4p8CCBkXXHI=",
+  "dgSpecHash": "uOjZTq2AFls=",
   "success": true,
-  "projectFilePath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\SingletonPatternExample\\SingletonPatternExample.csproj",
+  "projectFilePath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\SingletonPatternExample\\SingletonPatternExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

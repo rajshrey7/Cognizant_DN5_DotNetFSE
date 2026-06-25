@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\AdapterPatternExample\\AdapterPatternExample.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\AdapterPatternExample\\AdapterPatternExample.csproj",
       "projectName": "AdapterPatternExample",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\AdapterPatternExample\\AdapterPatternExample.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\AdapterPatternExample\\AdapterPatternExample.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\AdapterPatternExample\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\AdapterPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

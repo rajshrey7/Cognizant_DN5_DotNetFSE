@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\01_InventoryManagementSystem\\01_InventoryManagementSystem.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\01_InventoryManagementSystem\\01_InventoryManagementSystem.csproj",
       "projectName": "01_InventoryManagementSystem",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\01_InventoryManagementSystem\\01_InventoryManagementSystem.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\01_InventoryManagementSystem\\01_InventoryManagementSystem.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\01_InventoryManagementSystem\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\01_InventoryManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

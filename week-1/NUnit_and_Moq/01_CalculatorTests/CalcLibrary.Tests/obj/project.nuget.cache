@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2j3tepgzf9U=",
+  "dgSpecHash": "jO2zpEHER70=",
   "success": true,
-  "projectFilePath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+  "projectFilePath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rshre\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\rshre\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",

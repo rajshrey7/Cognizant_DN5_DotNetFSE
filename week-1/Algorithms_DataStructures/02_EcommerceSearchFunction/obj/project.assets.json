@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\02_EcommerceSearchFunction\\02_EcommerceSearchFunction.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\02_EcommerceSearchFunction\\02_EcommerceSearchFunction.csproj",
       "projectName": "02_EcommerceSearchFunction",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\02_EcommerceSearchFunction\\02_EcommerceSearchFunction.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\02_EcommerceSearchFunction\\02_EcommerceSearchFunction.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\02_EcommerceSearchFunction\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\02_EcommerceSearchFunction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

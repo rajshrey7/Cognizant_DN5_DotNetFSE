@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\06_LibraryManagementSystem\\06_LibraryManagementSystem.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\06_LibraryManagementSystem\\06_LibraryManagementSystem.csproj",
       "projectName": "06_LibraryManagementSystem",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\06_LibraryManagementSystem\\06_LibraryManagementSystem.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\06_LibraryManagementSystem\\06_LibraryManagementSystem.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\06_LibraryManagementSystem\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\06_LibraryManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

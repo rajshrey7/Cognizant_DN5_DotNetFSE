@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
       "projectName": "CalcLibrary",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

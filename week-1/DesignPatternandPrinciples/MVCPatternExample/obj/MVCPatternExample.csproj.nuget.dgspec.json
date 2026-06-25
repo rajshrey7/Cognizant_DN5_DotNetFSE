@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj": {}
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj": {
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj",
+        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj",
         "projectName": "MVCPatternExample",
-        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj",
+        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\MVCPatternExample\\MVCPatternExample.csproj",
         "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\MVCPatternExample\\obj\\",
+        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\MVCPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

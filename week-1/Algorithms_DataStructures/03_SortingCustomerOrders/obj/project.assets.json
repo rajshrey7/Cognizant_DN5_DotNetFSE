@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\03_SortingCustomerOrders\\03_SortingCustomerOrders.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\03_SortingCustomerOrders\\03_SortingCustomerOrders.csproj",
       "projectName": "03_SortingCustomerOrders",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\03_SortingCustomerOrders\\03_SortingCustomerOrders.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\03_SortingCustomerOrders\\03_SortingCustomerOrders.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\03_SortingCustomerOrders\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\03_SortingCustomerOrders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

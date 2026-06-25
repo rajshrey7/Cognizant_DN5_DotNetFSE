@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = CalcLibrary
-build_property.ProjectDir = D:\Cognizant_DN5_DotNetFSE\NUnit_and_Moq\01_CalculatorTests\CalcLibrary\CalcLibrary\
+build_property.ProjectDir = D:\Cognizant_DN5_DotNetFSE\Week-1\NUnit_and_Moq\01_CalculatorTests\CalcLibrary\CalcLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

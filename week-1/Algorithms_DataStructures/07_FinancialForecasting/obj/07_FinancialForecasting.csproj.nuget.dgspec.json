@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj": {}
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj": {
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj",
+        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj",
         "projectName": "07_FinancialForecasting",
-        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj",
+        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\07_FinancialForecasting\\07_FinancialForecasting.csproj",
         "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\07_FinancialForecasting\\obj\\",
+        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\07_FinancialForecasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

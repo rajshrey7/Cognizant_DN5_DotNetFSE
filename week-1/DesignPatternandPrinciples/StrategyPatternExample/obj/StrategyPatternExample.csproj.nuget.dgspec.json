@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj": {}
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj": {
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj",
+        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj",
         "projectName": "StrategyPatternExample",
-        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj",
+        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\StrategyPatternExample\\StrategyPatternExample.csproj",
         "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\StrategyPatternExample\\obj\\",
+        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\StrategyPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

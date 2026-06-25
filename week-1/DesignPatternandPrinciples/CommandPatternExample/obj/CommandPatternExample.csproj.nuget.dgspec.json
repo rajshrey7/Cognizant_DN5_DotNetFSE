@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj": {}
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj": {
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj",
+        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj",
         "projectName": "CommandPatternExample",
-        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj",
+        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\CommandPatternExample\\CommandPatternExample.csproj",
         "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\CommandPatternExample\\obj\\",
+        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\CommandPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

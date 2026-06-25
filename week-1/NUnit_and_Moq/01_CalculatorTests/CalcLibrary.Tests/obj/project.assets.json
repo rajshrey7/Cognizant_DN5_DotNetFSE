@@ -1619,11 +1619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
       "projectName": "CalcLibrary.Tests",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1641,8 +1641,8 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
-              "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj"
+            "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
+              "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj"
             }
           }
         }

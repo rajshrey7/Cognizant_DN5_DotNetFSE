@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj": {}
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj": {
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj",
+        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj",
         "projectName": "05_TaskManagementSystem",
-        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj",
+        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\05_TaskManagementSystem\\05_TaskManagementSystem.csproj",
         "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Algorithms_DataStructures\\05_TaskManagementSystem\\obj\\",
+        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\Algorithms_DataStructures\\05_TaskManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

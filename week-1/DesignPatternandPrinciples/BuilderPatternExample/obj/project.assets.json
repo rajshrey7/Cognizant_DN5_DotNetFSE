@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\BuilderPatternExample\\BuilderPatternExample.csproj",
+      "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\BuilderPatternExample\\BuilderPatternExample.csproj",
       "projectName": "BuilderPatternExample",
-      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\BuilderPatternExample\\BuilderPatternExample.csproj",
+      "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\BuilderPatternExample\\BuilderPatternExample.csproj",
       "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\DesignPatternandPrinciples\\BuilderPatternExample\\obj\\",
+      "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-1\\DesignPatternandPrinciples\\BuilderPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

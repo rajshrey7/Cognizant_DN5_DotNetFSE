@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../PlayersManager.Tests/PlayersManager.Tests.csproj" />
-  <Project Path="PlayersManagerLib.csproj" />
-</Solution>
