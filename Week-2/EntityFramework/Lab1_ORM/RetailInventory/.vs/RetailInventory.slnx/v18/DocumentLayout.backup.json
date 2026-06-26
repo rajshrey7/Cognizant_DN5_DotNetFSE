@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab1_ORM\\RetailInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A748AB8C-620C-4197-8187-5FB3D6AE879B}|RetailInventory.csproj|d:\\cognizant_dn5_dotnetfse\\entityframework\\lab1_orm\\retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A748AB8C-620C-4197-8187-5FB3D6AE879B}|RetailInventory.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A748AB8C-620C-4197-8187-5FB3D6AE879B}|RetailInventory.csproj|d:\\cognizant_dn5_dotnetfse\\entityframework\\lab1_orm\\retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A748AB8C-620C-4197-8187-5FB3D6AE879B}|RetailInventory.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A748AB8C-620C-4197-8187-5FB3D6AE879B}|RetailInventory.csproj|d:\\cognizant_dn5_dotnetfse\\entityframework\\lab1_orm\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A748AB8C-620C-4197-8187-5FB3D6AE879B}|RetailInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab1_ORM\\RetailInventory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab1_ORM\\RetailInventory\\Models\\Category.cs*",
+              "RelativeToolTip": "Models\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:38:27.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab1_ORM\\RetailInventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab1_ORM\\RetailInventory\\Models\\Product.cs*",
+              "RelativeToolTip": "Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:38:14.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab1_ORM\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab1_ORM\\RetailInventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:19:39.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
