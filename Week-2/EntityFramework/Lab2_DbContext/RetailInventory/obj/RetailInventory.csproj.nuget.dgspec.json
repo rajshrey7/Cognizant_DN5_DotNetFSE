@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj": {}
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-2\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj": {
+    "D:\\Cognizant_DN5_DotNetFSE\\Week-2\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj",
+        "projectUniqueName": "D:\\Cognizant_DN5_DotNetFSE\\Week-2\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj",
         "projectName": "RetailInventory",
-        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj",
+        "projectPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-2\\EntityFramework\\Lab2_DbContext\\RetailInventory\\RetailInventory.csproj",
         "packagesPath": "C:\\Users\\rshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\EntityFramework\\Lab2_DbContext\\RetailInventory\\obj\\",
+        "outputPath": "D:\\Cognizant_DN5_DotNetFSE\\Week-2\\EntityFramework\\Lab2_DbContext\\RetailInventory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rshre\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+D:\Article\Kafka\Kafka_Net\Kafka_Net\bin\Debug\Kafka_Net.exe.config
+D:\Article\Kafka\Kafka_Net\Kafka_Net\bin\Debug\Kafka_Net.exe
+D:\Article\Kafka\Kafka_Net\Kafka_Net\bin\Debug\Kafka_Net.pdb
+D:\Article\Kafka\Kafka_Net\Kafka_Net\bin\Debug\kafka-net.dll
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.csprojAssemblyReference.cache
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.Form1.resources
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.Properties.Resources.resources
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.csproj.GenerateResource.cache
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.csproj.CoreCompileInputs.cache
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.csproj.CopyComplete
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.exe
+D:\Article\Kafka\Kafka_Net\Kafka_Net\obj\Debug\Kafka_Net.pdb
